@@ -15,3 +15,4 @@
 - [Dhiren Reddy](https://github.com/dhirenrddy)
 - [Ana Koniashvili](https://github.com/akoniashvili1)
 - [Stephanie Gutierrez](https://github.com/sguti1)
+- [Kaley Taylor](https://github.com/kaleytaylor)
