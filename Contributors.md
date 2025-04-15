@@ -4,3 +4,4 @@
 - [OIM3640](https://github.com/OIM3640)
 - [Khushi Chindaliya](https://github.com/khushichindaliya)
 - [Carolina_Martinez]
+- [George Guo](https://github.com/GeorgeGuo12138)
