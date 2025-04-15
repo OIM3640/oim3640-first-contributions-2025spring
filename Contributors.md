@@ -9,3 +9,4 @@
 - [Sam_Harris](https://github.com/sharris211)
 - [Chris Gravagna](https://github.com/chrisg1093)
 - [Jason Park](https://github.com/iseunpark)
+- [Aryan Shanker](https://github.com/ashank2)
